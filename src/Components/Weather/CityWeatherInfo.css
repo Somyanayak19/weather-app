@@ -1,0 +1,17 @@
+/* .MuiGrid-container {
+    background-color: blue;
+} */
+
+.city-weather-details {
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    align-items: stretch;
+  }
+  
+  .flex-container > div {
+    text-align: center;
+    line-height: 35px;
+  }
